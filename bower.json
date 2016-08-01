@@ -1,0 +1,27 @@
+{
+  "name": "vetlog-theme",
+  "homepage": "https://github.com/josdem/vetlog-theme",
+  "authors": [
+    "josdem <joseluis.delacruz@gmail.com>"
+  ],
+  "description": "CSS and JS from vetlog",
+  "main": [
+    "js/flex.js",
+    "css/plugin.css",
+    "css/style.css"
+  ],
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": [
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  ]
+}
